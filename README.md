@@ -22,6 +22,17 @@ Soy un desarrollador Front-End apasionado por crear aplicaciones web dinámicas 
 
 ## Proyectos Destacados:
 
+### ✈️ [Travel Zone](https://github.com/PF-grupo03/TravelZone)
+- **Descripción:** Plataforma web para la compra de paquetes de viajes. Los usuarios pueden registrarse (incluyendo registro con Google), navegar por los paquetes de viajes, seleccionar fechas, y completar el pago usando Stripe. Además, tienen acceso a un dashboard donde pueden actualizar su información y ver el historial de compras. Los administradores pueden gestionar usuarios y paquetes de viajes, subiendo imágenes a Cloudinary.
+- **Stack:** TypeScript, Next.js, Tailwind CSS, Stripe, Cloudinary
+- **Rol:** Front-End
+- **Funciones clave:**
+  - Gestión de usuarios y administradores.
+  - Registro y autenticación (Google OAuth).
+  - Gestión de paquetes de viaje y pagos.
+  - Dashboard para ver historial y modificar datos personales.
+  - Administración de paquetes de viaje por parte de los administradores (crear, editar, eliminar).
+
 ### 🩺 [Turnos Virtuales](https://github.com/Yaakov0111/turnos-virtuales)
 - **Descripción:** Aplicación Full Stack para la gestión de citas médicas. Los usuarios pueden agendar y cancelar citas de manera eficiente.
 - **Stack:** React (Front-End), Node.js y Express (Back-End), PostgreSQL y MongoDB (Bases de Datos)
