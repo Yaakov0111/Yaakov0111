@@ -10,7 +10,7 @@
 ---
 
 ## Sobre mí:
-Soy un desarrollador Front-End apasionado por crear aplicaciones web dinámicas y optimizadas. Me especializo en **React**, **Next.js**, **Tailwind CSS**, y otras tecnologías modernas para crear interfaces intuitivas y de alto rendimiento. Me encanta aprender y actualmente estoy mejorando mi inglés (B1). Además, soy una persona resiliente y adaptable, siempre buscando nuevas oportunidades para crecer profesionalmente.
+Soy un desarrollador Front-End apasionado por crear aplicaciones web dinámicas y optimizadas. Me especializo en **React**, **Next.js**, **Tailwind CSS**, y otras tecnologías como **TypeScript**, **express**, **node.js** para crear interfaces intuitivas y de alto rendimiento. Me encanta aprender y actualmente estoy mejorando mi inglés (B1). Además, soy una persona resiliente y adaptable, siempre buscando nuevas oportunidades para crecer profesionalmente.
 
 ## Tecnologías:
 - **Lenguajes:** JavaScript, TypeScript
