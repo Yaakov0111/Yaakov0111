@@ -5,7 +5,7 @@
 📍 Bogotá, Colombia  
 📧 [Diferoma-96@outlook.com](mailto:Diferoma-96@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/diego-rodriguez-945a30267/)  
-🔗 [GitHub](https://github.com/Yaakov0111)
+
 
 ---
 
